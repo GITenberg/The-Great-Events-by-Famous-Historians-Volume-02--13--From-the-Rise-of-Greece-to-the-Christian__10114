@@ -1,5 +1,8 @@
 _repo: The-Great-Events-by-Famous-Historians-Volume-02--13--From-the-Rise-of-Greece-to-the-Christian__10114
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editors:
   - agent_name: Rudd, John, LL. D.
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3319
     wikipedia: http://en.wikipedia.org/wiki/Charles_Francis_Horne
 description: This volume covers B.C. 450-A.D. 12.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10114#The-Great-Events-by-Famous-Historians-Volume-02--13--From-the-Rise-of-Greece-to-the-Christian_
 gutenberg_bookshelf: Greece
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
